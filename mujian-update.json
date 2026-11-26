@@ -1,6 +1,6 @@
 {
   "project": "mujian",
-  "version": "5.0.10",
-  "script": "%E8%BF%B7%E9%9B%BE%E4%B9%8B%E5%A4%96-v5.0.10.js",
-  "sha256": "b6e29e32af26b7e57e19e394a96d6505047ae7ab73df22c739fc3f739cbe1dd1"
+  "version": "5.0.11",
+  "script": "%E8%BF%B7%E9%9B%BE%E4%B9%8B%E5%A4%96-v5.0.11.js",
+  "sha256": "52ca3628b9d4ca127198804b690600ac84bee0126e587f063bb0c8626757bd9d"
 }
